@@ -1,0 +1,24 @@
+Flask==1.1.0
+
+# Application server for both development and production.
+gunicorn
+
+# Testin and static analysis
+pytest
+pytest-cov
+flake8
+
+# CLI.
+Click==6.4
+
+# Data and workers.
+redis==2.10.5
+celery==3.1.23
+
+# Forms.
+Flask-WTF==0.9.5
+WTForms-Components==0.9.7
+
+# Extensions.
+flask-debugtoolbar==0.10.0
+Flask-Mail

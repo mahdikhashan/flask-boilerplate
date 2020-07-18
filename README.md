@@ -1,2 +1,2 @@
-# flask_boilerplate
+# flask-boilerplate
 Flask Application Boilerplate
